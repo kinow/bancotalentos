@@ -1,0 +1,7 @@
+.svn
+.settings
+.classpath
+.buildpath
+.tomcatplugin
+.project
+target
